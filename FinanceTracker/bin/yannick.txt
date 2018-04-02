@@ -1,0 +1,30 @@
+1
+1
+2007
+Income
+2976.48
+Starting Balance
+3
+8
+2017
+Food
+24.34
+Dominoe's
+4
+11
+1014
+Gas
+54.67
+Chevron
+31
+1
+2017
+Income
+2054.00
+Paycheck
+23
+6
+2017
+Entartainment
+67.98
+Movie Theater

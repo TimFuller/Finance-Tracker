@@ -1,0 +1,24 @@
+1
+1
+2000
+Income
+50857.00
+Starting Balance
+29
+9
+2008
+Gas
+15.36
+Shell
+3
+7
+1981
+Food
+0.50
+Stick of Gum
+3
+3
+2017
+Income
+2000.00
+Paycheck!
